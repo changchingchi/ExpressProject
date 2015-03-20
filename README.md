@@ -7,7 +7,7 @@ Express framework is used in this project.
 
 # pre-requiest on your laptop
 1. express generator install gloablly
-2. npm 
+2. npm install. 
 
 
 #installation on c9.io
